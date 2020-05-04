@@ -1,0 +1,65 @@
+html,body{
+  margin:0;
+}
+
+header{
+  font-weight:bold;
+  height:50px;
+  width:100%;
+  color:white;
+  background-color:#000;
+  position:fixed;
+  top:0px;
+
+}
+
+.header-logo{
+  float:left
+}
+
+.login{
+  float:right;
+}
+
+.container{
+  width:100%;
+}
+
+.title1{
+  margin-top:60px;
+}
+
+.list{
+  margin-top:50px;
+  background-image:url(made in abisu.jpg);
+  height:1000px
+}
+
+.content{
+  margin-top:70px;
+  height:800px;
+  width:100%;
+}
+
+.content img{
+  height:500px;
+  width:500px;
+}
+
+.content p{
+  width:1500px;
+}
+
+
+.contact-form{
+  height:500px;
+}
+.contact-form textarea{
+  height:200px;
+  width:1000px;
+}
+
+
+footer{
+  float:right;
+}
